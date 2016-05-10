@@ -1,0 +1,64 @@
+body{
+	color: white;
+	font-font-family: arial;
+	width: 850px;
+	margin: auto;
+	 
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: black;
+}
+
+nav{
+	padding:16px;
+	text-align: center;
+}
+nav a{
+	text-indent: -9999px;
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	margin: 0 8px;
+	}
+
+#home{
+	background-color: blue;
+}
+#info{
+	background-color: pink;
+}
+#links{
+	background-color: purple;
+}
+#photo{
+	background-color: red;
+}
+h1{
+	background-color: white;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: orange;
+	font-size: 50px;
+	font-font-family: arial;
+	padding: 50px;
+	text-shadow: 2px 2px red;
+}
+h2{
+	color: pink;
+}
+p{
+	line-height: 25px;
+	font-size: 18px;
+}
+.list{
+	font-size: 24px;
+	
+	list-style: 16x16px;
+}
+a:hover{
+	color: white;
+}
+a{
+	 text-decoration: none;
+	 color:blue;
+}
